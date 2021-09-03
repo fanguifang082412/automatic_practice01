@@ -1,0 +1,22 @@
+{
+  "money_null":
+    {"money": "",
+    "image": "C:\\Users\\Administrator\\Desktop\\image\\1.png",
+    "assert_info": "必填项不能为空"
+    },
+  "money_error":
+    {"money": "abc",
+    "image": "C:\\Users\\Administrator\\Desktop\\image\\1.png",
+    "assert_info": "充值金额非法"
+    },
+  "image_null":
+    {"money": "100",
+    "image": "",
+    "assert_info": "上传凭证为空"
+    },
+  "recharge_success":
+    {"money": "100",
+    "image": "C:\\Users\\Administrator\\Desktop\\image\\1.png",
+    "assert_info": "充值申请成功"
+    }
+}
